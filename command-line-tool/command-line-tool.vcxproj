@@ -30,7 +30,7 @@
     <ProjectGuid>{C008CD30-0AA2-441C-BD7A-3C3EE76FA537}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>commandlinetool</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

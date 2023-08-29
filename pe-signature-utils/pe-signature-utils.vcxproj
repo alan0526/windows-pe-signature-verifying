@@ -39,7 +39,7 @@
     <ProjectGuid>{F845ACF5-073A-4D6C-978B-F32D9C3D304D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>pesignatureutils</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
